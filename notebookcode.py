@@ -4,7 +4,7 @@ def app():
 	st.title("Raw Jupyter Notebook Code")
 
 	# Path to your Jupyter Notebook file
-	file_path = "HU/Streamlit_HeartAttack/cardiovascular_diseases.ipynb"  # Adjust this to the correct file path
+	file_path = "Streamlit_HeartAttack/cardiovascular_diseases.ipynb"  # Adjust this to the correct file path
 
 	# Read and display the raw JSON content of the notebook
 	try:
