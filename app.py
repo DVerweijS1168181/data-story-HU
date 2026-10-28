@@ -8,7 +8,7 @@ from codeviewer import app as code_viewer
 from notebookcode import app as notebook_code_page
 
 # import dataframes
-# df_death_cause_per_country = pd.read_csv('C:/Users/daanv/Custom Datascience Projects/HU/Streamlit_HeartAttack/Data/deaths_cause/death_cause_per_country_bar_chart.csv')
+# df_death_cause_per_country = pd.read_csv('/HU/Streamlit_HeartAttack/Data/deaths_cause/death_cause_per_country_bar_chart.csv')
 df_deaths_cause = pd.read_csv(
 	'HU/Streamlit_HeartAttack/Data/deaths_cause/share-of-deaths-from-major-causes.csv')
 
